@@ -1,0 +1,16 @@
+id,device_id,timestamp,room,temperature,humidity,motion,light_level,gas_level
+1,sensor_living_room,2024-01-15 08:00:00,Living Room,26.5,62.1,0,450,95
+2,sensor_kitchen,2024-01-15 08:00:05,Kitchen,29.8,70.4,1,380,180
+3,sensor_bedroom,2024-01-15 08:00:10,Bedroom,24.2,58.3,0,120,80
+4,sensor_hall,2024-01-15 08:00:15,Hall,27.1,64.0,1,520,100
+5,sensor_bathroom,2024-01-15 08:00:20,Bathroom,31.5,78.9,0,90,110
+6,sensor_living_room,2024-01-15 08:05:00,Living Room,26.8,62.5,1,460,98
+7,sensor_kitchen,2024-01-15 08:05:05,Kitchen,30.2,71.0,1,390,190
+8,sensor_bedroom,2024-01-15 08:05:10,Bedroom,24.5,58.8,0,125,82
+9,sensor_hall,2024-01-15 08:05:15,Hall,27.3,64.5,0,510,102
+10,sensor_bathroom,2024-01-15 08:05:20,Bathroom,31.8,79.2,1,92,115
+11,sensor_living_room,2024-01-15 08:10:00,Living Room,27.0,63.0,0,470,95
+12,sensor_kitchen,2024-01-15 08:10:05,Kitchen,30.5,71.5,0,400,185
+13,sensor_bedroom,2024-01-15 08:10:10,Bedroom,24.8,59.0,0,130,85
+14,sensor_hall,2024-01-15 08:10:15,Hall,27.5,65.0,1,530,105
+15,sensor_bathroom,2024-01-15 08:10:20,Bathroom,32.0,79.5,0,95,112
